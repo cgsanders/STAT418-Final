@@ -6,4 +6,4 @@ The contents of this directory are used to launch a docker instances that contai
 2. Change your current directory to this file
 3. Run `docker-compose up --build`, this may take a while on the first run
 4. Open your browsers and in the address box input the url ouputed in the terminal
-5. Open the notebook and you can now run the app
+5. Open the notebook and you can now modify and run the code
