@@ -2,6 +2,7 @@
 ![](https://github.com/cgsanders/STAT418-Final/blob/master/GitPic.PNG)
 
 This is the final project for Cole Sanders for STAT 418 at UCLA. The final result can be found at:
+
 https://cole-stats.shinyapps.io/Reddit-Tittle_Phrases/
 
 ## Methods
