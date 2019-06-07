@@ -2,7 +2,7 @@
 #deploy to shinyapps.io
 #first you will need an account
 
-#install.packages('rsconnect')
+install.packages('rsconnect')
 
 #name is account name, get both your authentication token and secret in your account
 rsconnect::setAccountInfo(name='cole-stats',
