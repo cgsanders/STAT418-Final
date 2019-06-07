@@ -4,7 +4,7 @@ The contents of this directory are used to launch a docker instances that contai
 ## Setup
 To get sever up and running:
 1. Download files
-2. Change your current directory to the Docker folder in the downloaded files
+2. Change your current directory to the jupyter_build_final folder in the downloaded files
 3. Enter `docker-compose up --build`in the terminal
 4. To check that the server is running enter the ip address displayed on your terminal into your browsers address bar. 
 5. A jupyter web page should open with the current directory being displayed.
