@@ -1,5 +1,4 @@
 # Shiny App
-
 This directory contains all of the code to run the Shiny App. The app is stored in the docker file, you can uses this to host a local instance to test the code and make changes. The deploy-to-shinyapps.R script contains code to deploy to ShinyApps.io for hosting. To uses this scrip make sure to update the code with your account information.
 
 ## Setup a Local Instance
@@ -15,7 +14,7 @@ To stop the API:
 3. Stop an instance with `docker container kill <container-name>`
  
 ## Deploy the app to ShinyApps.io
-Simply run the `deploy-to-shinyapps.R` file:
+To deploy the app to shinyapps.io:
   1. Download files
   2. Create an account at https://www.shinyapps.io/
   2. Update the `deploy-to-shinyapps.R` to include your account information
